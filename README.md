@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAD15X
 - 👀 I’m interested in learning new aspects of coding 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me:-
 
 Mobile:-  + 91 8779796187 
